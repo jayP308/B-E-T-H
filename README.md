@@ -1,1 +1,3 @@
-# B-E-T-H
+# Website In Progress
+
+## In Progress
