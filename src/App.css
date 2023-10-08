@@ -1,4 +1,15 @@
+body {
+  background-image: url('./assets/images/spa-still-life-with-beauty-products.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
+  display: block;
+  height: 1000px;
   text-align: center;
+  border-color: rgb(181, 181, 228);
+  background-color: rgba(181, 181, 228, 0.472);
+  background-size: cover;
 }
 
