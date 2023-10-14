@@ -1,15 +1,19 @@
 import './App.css';
 import Header from "./components/Header"
 import Footer from "./components/Footer"
+import Main from "./components/Main"
+import Subheader from "./components/Subheader"
 
 function App() {
   return (
     <div className="App">
       <Header/>
       <hr></hr>
-      <p>Sub Header</p>
+      <Subheader/>
       <hr></hr>
-      <p>Main Body</p>
+      <Main/>
+      <Main/>
+      <Main/>
       <hr></hr>
       <Footer/>
     </div>
